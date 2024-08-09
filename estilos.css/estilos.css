@@ -1,0 +1,27 @@
+.bg-primary {
+    background-color: rgb(90, 133, 154);
+}
+
+.bg-secondary {
+    background-color: rgb(167, 120, 120);
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-light{
+    color: #eedad1;
+}
+
+.text-info {
+    color: #d4b5b0;
+}
+
+.w200 {
+    width: 200px;
+}
+
+.text-primary {
+    color: #383e56;
+}
